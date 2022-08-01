@@ -2,7 +2,9 @@
 
 I have made a lodgings and resorts web apps named Hotels that helps individuals and families to discover lodging rooms and lodging bundles agreeing to their choices and inclinations and at sensible rates, to create their ventures, trade visits and get-aways more satisfying, pleasant, hassle less and stress-free.
 
-## my website link:  https://delightful-pebble-095484510.1.azurestaticapps.net
+## my youtube video link:  
+
+## my website link:  https://mango-bay-07acccd10.1.azurestaticapps.net
 
 ## Home Page
 ![1](https://user-images.githubusercontent.com/107340052/180721000-81fad40d-8009-441d-8fe5-fea4dfec16b6.png)
