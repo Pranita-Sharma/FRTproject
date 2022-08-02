@@ -7,20 +7,25 @@ I have made a lodgings and resorts web apps named Hotels that helps individuals 
 ## my website link:  https://mango-bay-07acccd10.1.azurestaticapps.net
 
 ## Home Page
-![1](https://user-images.githubusercontent.com/107340052/180721000-81fad40d-8009-441d-8fe5-fea4dfec16b6.png)
-![2](https://user-images.githubusercontent.com/107340052/180721070-1a5fcf29-b396-4813-a42c-44d04daaa5dc.png)
-![3](https://user-images.githubusercontent.com/107340052/180721085-07d20916-94ae-469a-8836-976d22399575.png)
-![4](https://user-images.githubusercontent.com/107340052/180721132-54742c89-a784-4aa4-be2c-c4bb6771475a.png)
-![5](https://user-images.githubusercontent.com/107340052/180721262-345b1b69-5ea4-4510-bab8-28eaa8b54618.png)
+![Screenshot (3783)](https://user-images.githubusercontent.com/107340052/182413429-e680b88b-3e38-4197-a18a-79785fc68241.png)
+![Screenshot (3784)](https://user-images.githubusercontent.com/107340052/182413569-94899a61-0fc7-4bdf-8d16-56a927ca2346.png)
+![Screenshot (3785)](https://user-images.githubusercontent.com/107340052/182413615-086d90ad-adfe-4740-b79b-11d74b03ba3f.png)
+![Screenshot (3786)](https://user-images.githubusercontent.com/107340052/182413672-6e46bbfc-600a-41b1-b4fd-c7f70c5cfe7f.png)
+![Screenshot (3787)](https://user-images.githubusercontent.com/107340052/182413817-44bab561-1ef0-4844-b953-374bc769e830.png)
+![Screenshot (3788)](https://user-images.githubusercontent.com/107340052/182413941-7d403e6c-f7fa-403f-9377-fc06970257d2.png)
+![5](https://user-images.githubusercontent.com/107340052/182418928-8fdb0320-2542-46f3-86fb-3d50cb4d69b6.png)
+
 
 ## About page
-![6](https://user-images.githubusercontent.com/107340052/180721398-747ed32f-e05c-4a0b-b91f-507f68f605c6.png)
-![7](https://user-images.githubusercontent.com/107340052/180721414-33575396-e194-45c3-bc3e-5dbbe3f65fbc.png)
+![Screenshot (3790)](https://user-images.githubusercontent.com/107340052/182417036-ef3e4d2c-3e85-40a4-b8b8-615a1d14aaa7.png)
+![Screenshot (3791)](https://user-images.githubusercontent.com/107340052/182417079-82c0bb3f-db90-4913-b77d-6e068a399514.png)
 
 ## Services Page
-![8](https://user-images.githubusercontent.com/107340052/180721514-8bca90e6-bc64-47a9-a096-fddad8cdc4cc.png)
-![9](https://user-images.githubusercontent.com/107340052/180721558-5ef54cfe-1265-4dd9-a2ed-ff603df33571.png)
+![Screenshot (3795)](https://user-images.githubusercontent.com/107340052/182417549-d211458c-0050-4a18-ac4d-da985c7111db.png)
+![Screenshot (3796)](https://user-images.githubusercontent.com/107340052/182418494-1d096a76-64bf-4b1d-b08a-2dd3fc8e9e4b.png)
+
 
 ## Contact Page
-![10](https://user-images.githubusercontent.com/107340052/180721624-46a4a613-6211-4a18-a250-824e18359369.png)
-![5](https://user-images.githubusercontent.com/107340052/180721656-7411ecd8-bea2-45ca-ad0f-cfad02b36d5f.png)
+![Screenshot (3797)](https://user-images.githubusercontent.com/107340052/182418681-19ed7438-0179-450e-b226-4b97bbabaa4a.png)
+![Screenshot (3798)](https://user-images.githubusercontent.com/107340052/182418715-4154268d-377e-4a80-9f14-61c9f66ce04b.png)
+![5](https://user-images.githubusercontent.com/107340052/182418825-aa53b3a9-cc7b-4ba8-ae56-5d1c1d1b6c28.png)
